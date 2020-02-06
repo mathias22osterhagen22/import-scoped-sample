@@ -6,7 +6,8 @@
 </template>
 
 <style lang="css" scoped>
-@import "~viewerjs/dist/viewer.css";
+ /*src="../../node_modules/viewerjs/dist/viewer.css" to copy pastle above*/ 
+    @import "~viewerjs/dist/viewer.css";
 </style>
 
 <script>
